@@ -1,0 +1,84 @@
+# ─── Environment & Secrets ────────────────────────────────────────────────────
+.env
+*.env
+!.env.example
+
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+MANIFEST
+
+# ─── Virtual Environments ─────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+.env/
+.venv/
+virtualenv/
+
+# ─── Jupyter ──────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ─── Data & Datasets ──────────────────────────────────────────────────────────
+# Keep sample/demo datasets, ignore UUID-named uploads
+datasets/[0-9a-f]*-[0-9a-f]*-[0-9a-f]*-[0-9a-f]*-[0-9a-f]*.csv
+datasets/[0-9a-f]*-[0-9a-f]*-[0-9a-f]*-[0-9a-f]*-[0-9a-f]*.xlsx
+datasets/*_cleaned.csv
+
+# ─── ML Models & Artifacts ────────────────────────────────────────────────────
+app/models/*.pkl
+app/models/*.joblib
+app/models/*.h5
+app/models/*.pt
+app/models/*.pth
+*.pickle
+
+# ─── Reports & Output ─────────────────────────────────────────────────────────
+reports_output/
+*.pdf
+*.html
+
+# ─── Databases ────────────────────────────────────────────────────────────────
+*.db
+*.sqlite
+*.sqlite3
+data.db
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── OS & IDE ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ─── Docker ───────────────────────────────────────────────────────────────────
+.dockerignore
+
+# ─── Misc ─────────────────────────────────────────────────────────────────────
+Prompt.txt
+*.tmp
+*.bak
