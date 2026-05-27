@@ -16,6 +16,17 @@ An AI-Powered, End-to-End Data Science Platform that automates data cleaning, ex
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-FF4B4B?logo=streamlit)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Live Demo](https://img.shields.io/badge/🤗%20Live%20Demo-Hugging%20Face-orange)](https://huggingface.co/spaces/jkbytecrafter/autonomous-data-analyst)
+
+---
+
+## 🌐 About
+
+> **Autonomous Data Analyst** is a fully automated, LLM-augmented data science assistant. Upload your dataset and let the AI do the rest — from cleaning and EDA to machine learning and natural language insights.
+
+🚀 **[Try the Live App on Hugging Face Spaces →](https://huggingface.co/spaces/jkbytecrafter/autonomous-data-analyst)**
+
+📦 **[View Source on GitHub →](https://github.com/JKBYTEcrafter/Autonomous-Data-Analyst)**
 
 ---
 
@@ -62,8 +73,8 @@ An AI-Powered, End-to-End Data Science Platform that automates data cleaning, ex
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/autonomous-data-analyst.git
-cd autonomous-data-analyst
+git clone https://github.com/JKBYTEcrafter/Autonomous-Data-Analyst.git
+cd Autonomous-Data-Analyst
 ```
 
 ### 2. Create a Virtual Environment
@@ -176,4 +187,3 @@ autonomous-data-analyst/
 ## 📝 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-"# Autonomous-Data-Analyst" 
