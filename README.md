@@ -1,13 +1,3 @@
----
-title: Autonomous Data Analyst
-emoji: 🤖
-colorFrom: blue
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
-
 # 🤖 Autonomous Data Analyst
 
 An AI-Powered, End-to-End Data Science Platform that automates data cleaning, exploratory data analysis, machine learning, and business insight generation — powered by LLMs (Gemini, OpenAI, Anthropic).
